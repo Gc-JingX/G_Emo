@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="omeosft_delete" format="reference"></attr>
+    <attr name="omeosft_bg_night" format="reference|color"></attr>
+
+</resources>

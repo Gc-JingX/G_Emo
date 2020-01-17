@@ -1,0 +1,2 @@
+include ':app', ':emoLib'
+rootProject.name='G_Emoj'

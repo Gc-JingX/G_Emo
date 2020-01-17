@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NightTheme">
+        <item name="omeosft_delete">@drawable/omeosft_delete_night</item>
+         <item name="omeosft_bg_night">#20466b</item>
+    </style>
+
+</resources>
